@@ -1,5 +1,5 @@
 # Gedu
-A simple Application to create Pixel-Art by writing code.
+A simple application to create Pixel-Art by writing code.
 
 Commands:
 
