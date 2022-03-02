@@ -1,7 +1,7 @@
 # Gedu
 A simple application to create Pixel-Art by writing code.
 
-Commands:
+## Commands
 
 fill > [color]: Set pixel color
 
